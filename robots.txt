@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://yongsan.the-drain.com/sitemap.xml
+Sitemap: https://seocho.the-drain.com/sitemap.xml
